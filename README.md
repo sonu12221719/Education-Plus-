@@ -1,6 +1,6 @@
 # EducationPlus
 
-![EducationPlus Preview](./Education Plus.png)
+![EducationPlus Preview](./Education-plus.png)
 
 **EducationPlus** is an innovative educational platform designed to provide **quality learning resources** and **smart tools** for students, educators, and lifelong learners. The project focuses on making education more **accessible**, **engaging**, and **effective** using modern web technologies.
 
